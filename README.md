@@ -30,25 +30,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ccb66d80-5228-4320-9cc2-b062084007ea" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+This image shows a help desk ticket in an IT ticketing system documenting a real-world incident where most users in the accounting department could not open Adobe Reader during an internal audit. The ticket captures the full lifecycle of the issue, starting with a user’s initial report, followed by the technician increasing the priority and SLA due to business impact, especially the audit deadline. Investigation notes show that the problem affected multiple users and caused the application to hang on launch, prompting escalation to the desktop administration team. The root cause was identified as a faulty Adobe Reader update pushed the previous night, and possible resolutions were documented, including waiting for a corrected deployment or manually installing the updated software. Overall, the ticket demonstrates proper incident management, documentation, prioritization, and collaboration in a typical IT help desk environment.</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1749" height="1190" alt="image" src="https://github.com/user-attachments/assets/da9fc25b-de70-4c59-890d-e64ee0030831" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+This image shows the administrative side of a ticketing system (osTicket) being configured for an IT help desk scenario. Specifically, it displays the Admin Control Panel where an administrator can edit an Agent's Role called “Expanded Access.” The screen focuses on the Permissions tab, which defines what actions support agents are allowed to perform on tickets, such as assigning tickets to other agents or teams, closing tickets, creating tickets on behalf of users, and deleting tickets. We did this demonstrate how role-based access control is used in a ticketing system to ensure agents only have the permissions appropriate to their job responsibilities. In a real IT help desk environment, this helps maintain security, accountability, and workflow efficiency by preventing unauthorized actions while allowing agents to resolve issues effectively.</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/35e2e5e3-1d0e-4ec7-819e-ee724f7ff1b6" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this project, I created and managed a realistic IT help desk scenario using a ticketing system to simulate how incidents are handled in a professional support environment. I documented a hypothetical software outage affecting multiple users, assessed the business impact, adjusted ticket priority and SLA accordingly, communicated with the end user to gather details, and recorded troubleshooting steps and escalation to another IT team. The project demonstrates my understanding of the full ticket lifecycle, including incident documentation, prioritization, collaboration, and resolution verification, while showcasing how IT support aligns technical problem-solving with business needs.
+
+
+
+
 </p>
 <br /># ticket-lifecycle
